@@ -54,6 +54,7 @@
     <ProjectGuid>{EC74DAF8-5106-470B-A8F4-D539B347E20E}</ProjectGuid>
     <RootNamespace>Eraser</RootNamespace>
     <Keyword>MFCProj</Keyword>
+    <ProjectName>EraserOne</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Standalone Release Unicode|Win32'" Label="Configuration">
